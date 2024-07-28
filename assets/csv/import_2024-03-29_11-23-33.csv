@@ -1,0 +1,4 @@
+V_USERID,Rank,Branch_of_Service,Fullname,Cellphone_Number,Date_of_Birth,Address,Office,Gender,Vehicle_Model,Vehicle_Type,Vehicle_Color,Vehicle_Plate_Number,image
+1,2LT,PAF,JOHN A. DOE,9123456789,1/1/1980,"MALACAÑANG PARK, MANILA","PPSFU, PSC",Male,Toyota Vios,Sedan,Black,XYZ 123,DOE_JOHN.jpg
+2,2LT,PNP,JANE B. SMITH,9876543211,2/11/1985,"MALACAÑANG PARK, MANILA","5CAV, PSC",Female,Honda Civic,Coupe,White,ABC 789,SMITH_JANE.jpg
+3,2LT,PAF,JUAN C. DELA CRUZ JR.,9876543211,11/20/1999,"MALACAÑANG PARK, MANILA","PPSFU, PSC",Male,Toyota Vios,Sedan,Black,XYZ 123,DELACRUZ_JUAN_JR.jpg

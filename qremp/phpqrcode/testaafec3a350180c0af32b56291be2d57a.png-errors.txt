@@ -1,0 +1,1724 @@
+2024-03-29 03:53:52: <br />
+<b>Warning</b>:  file_get_contents(C:\xampp\htdocs\QRv\qr\phpqrcode\cache\mask_6\mask_21_6.dat): Failed to open stream: Resource temporarily unavailable in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>150</b><br />
+<br />
+<b>Warning</b>:  gzuncompress(): data error in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>133</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 1 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 3 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 4 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 5 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 6 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 7 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 8 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 9 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 10 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 11 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 12 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 13 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 14 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 15 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 16 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 17 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 18 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 19 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Undefined array key 20 in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\QRv\qr\phpqrcode\qrmask.php</b> on line <b>168</b><br />

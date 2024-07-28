@@ -1,0 +1,3 @@
+V_USERID,Rank,Branch_of_Service,Fullname,Cellphone_Number,Date_of_Birth,Address,Office,Gender,Vehicle_Model,Vehicle_Type,Vehicle_Color,Vehicle_Plate_Number,image
+0020,Sergeant,Army,John Doe,09123456789,1980-01-01,123 Fake St.,Fort Bonifacio,Male,Toyota Vios,Sedan,Black,XYZ 123,johndoe.jpg
+0021,Corporal,Navy,Jane Smith,09876543211,1985-02-02,456 Another St.,Naval Base,Female,Honda Civic,Coupe,White,ABC 789,janesmith.jpg

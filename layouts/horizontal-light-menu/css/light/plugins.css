@@ -1,0 +1,13 @@
+@import url('https://designreset.com/cork/html/src/assets/css/light/main.css');
+@import url('https://designreset.com/cork/html/src/plugins/css/light/perfect-scrollbar/perfect-scrollbar.css');
+@import url('https://designreset.com/cork/html/src/plugins/src/waves/waves.min.css');
+@import url('https://designreset.com/cork/html/layouts/horizontal-light-menu/css/light/structure.css');
+/*
+    Importing highlight.js CSS code 
+
+    Just for demo purpose only
+	
+	@Note:-  monokai-sublime.css stylesheet is for highliting the code;
+
+*/
+@import 'https://designreset.com/cork/html/src/plugins/src/highlight/styles/monokai-sublime.css';

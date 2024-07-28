@@ -1,0 +1,4 @@
+V_USERID,Rank,Branch_of_Service,Fullname,Cellphone_Number,Date_of_Birth,Address,Office,Gender,Vehicle_Model,Vehicle_Type,Vehicle_Color,Vehicle_Plate_Number,image
+0002,2LT,PAF,JOHN A. DOE,+639123456789,1980/1/1,"ADDRESS","OFFICE",Male,Toyota Vios,Sedan,Black,XYZ 123,DOE_JOHN.jpg
+0003,2LT,PNP,JANE B. SMITH,+639876543211,1985/2/11,"ADDRESS","OFFICE",Female,Honda Civic,Coupe,White,ABC 789,SMITH_JANE.jpg
+0004,2LT,PN,JUAN C. DELA CRUZ JR.,+639876543211,1999/11/20,"ADDRESS","OFFICE",Male,Toyota Vios,Sedan,Black,XYZ 123,DELACRUZ_JUAN_JR.jpg

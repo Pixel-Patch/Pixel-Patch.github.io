@@ -1,0 +1,21 @@
+Guide for CSV and Image File Preparation
+
+CSV File Instructions:
+-Please adhere to the template provided when filling out import.csv to ensure successful database entry. Accuracy in following the template is crucial for compatibility
+-For the image column, enter the image file name like this: 0001 - JUAN A. DELA CRUZ SR..extension (.jpg, .jpeg, or .png).
+ex. 0001 - JUAN A. DELA CRUZ SR..png
+
+Image Preparation and Upload: Convert images to either .jpg, .jpeg, or .png format.
+
+Preferred Size: 90 x 90 px (see the examples in uploads folder).
+
+File Size Limit: Make sure each image is less than 5 MB.
+
+Naming Your Images: Rename your images following the format: 0001 - JUAN A. DELA CRUZ SR. to match the entry in the CSV file.
+
+Resizing Tool: To resize your images, use https://imageresizer.com. It's a handy tool for adjusting the format, dimensions, and file size to meet the project requirements.
+
+
+Uploading:Upload your renamed and resized images to the specified uploads folder.
+
+This guide ensures your images and CSV file are prepared correctly, matching the import requirements.

@@ -1,0 +1,447 @@
+<?php include('header.php'); ?>
+
+<!-- BEGIN PAGE LEVEL CUSTOM STYLES vehicle-->
+<link rel="stylesheet" type="text/css" href="../plugins/table/datatable/datatables.css">
+<link rel="stylesheet" type="text/css" href="../plugins/table/datatable/custom_dt_html5.css">
+<link rel="stylesheet" type="text/css" href="../plugins/table/datatable/dt-global_style.css">
+<!-- END PAGE LEVEL PLUGINS/CUSTOM STYLES -->
+
+<!-- BEGIN THEME GLOBAL STYLES date range picker-->
+<link href="../plugins/flatpickr/flatpickr.css" rel="stylesheet" type="text/css">
+<link href="../plugins/noUiSlider/nouislider.min.css" rel="stylesheet" type="text/css">
+<!-- END THEME GLOBAL STYLES -->
+
+
+<!--  BEGIN CUSTOM STYLE FILE  date range picker-->
+<link href="../assets/css/scrollspyNav.css" rel="stylesheet" type="text/css" />
+<link href="../plugins/flatpickr/custom-flatpickr.css" rel="stylesheet" type="text/css" />
+<link href="../plugins/noUiSlider/custom-nouiSlider.css" rel="stylesheet" type="text/css" />
+<link href="../plugins/bootstrap-range-Slider/bootstrap-slider.css" rel="stylesheet" type="text/css" />
+<!--  END CUSTOM STYLE FILE  -->
+
+<!-- BEGIN PAGE LEVEL STYLES -->
+<link rel="stylesheet" type="text/css" href="../assets/css/forms/theme-checkbox-radio.css">
+<link href="../plugins/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+<link href="../assets/css/apps/contacts.css" rel="stylesheet" type="text/css" />
+<!-- END PAGE LEVEL STYLES -->
+<link href="../assets/css/users/user-profile.css" rel="stylesheet" type="text/css" />
+
+
+
+</head>
+
+<body class="sidebar-noneoverflow">
+
+	<div id="load_screen">
+		<div class="loader">
+			<div class="loader-content">
+				<div class="spinner-grow align-self-center"></div>
+			</div>
+		</div>
+	</div>
+
+
+	<?php include('navbar.php'); ?>
+	<!--  BEGIN MAIN CONTAINER  -->
+
+	<!--  BEGIN MAIN CONTAINER  -->
+	<div class="main-container" id="container">
+
+		<div class="overlay"></div>
+		<div class="search-overlay"></div>
+
+		<!--  BEGIN TOPBAR  -->
+		<?php include('topbar.php'); ?>
+		<!--  END TOPBAR  -->
+
+
+		<!--  BEGIN CONTENT AREA  -->
+		<div id="content" class="main-content">
+			<div class="layout-px-spacing">
+
+				<div class="row layout-top-spacing" id="cancel-row">
+
+					<div class="col-xl-12 col-lg-12 col-sm-12  layout-spacing">
+						<div class="widget-content widget-content-area br-6" style="position:relative;">
+
+							<div class="table-responsive mb-4 mt-4" style="margin-top: 0.5rem!important;">
+
+								<table id="html5-extension" class="table table-hover non-hover" style="width:100%">
+									<thead>
+										<tr>
+											<th class="text-center">User ID</th>
+											<th class="text-center">Sponsor</th>
+											<th class="text-center">Fullname</th>
+											<th class="text-center">Gender</th>
+											<th class="text-center">Purpose of Visit</th>
+											<th class="text-center">Vehicle Model</th>
+											<th class="text-center">Plate Number</th>
+											<th class="text-center">Date Registered</th>
+											<th class="text-center">Status</th>
+											<th class="text-center">Action</th>
+										</tr>
+									</thead>
+									<tbody>
+										<?php
+										$sql = "SELECT * FROM `temp_visitor` ";
+										$query = $conn->query($sql);
+										while ($row = $query->fetch_assoc()) {
+										?>
+											<tr>
+												<td class="text-center"><?php echo $row['V_USERID']; ?></td>
+												<td class="text-center"><?php echo $row['sponsor']; ?></td>
+												<td class="text-center"><?php echo $row['name']; ?></td>
+												<td class="text-center"><?php echo $row['gender']; ?></td>
+												<td class="text-center"><?php echo $row['visitReason']; ?></td>
+												<td class="text-center"><?php echo $row['vModel']; ?></td>
+												<td class="text-center"><?php echo $row['vPlateNumber']; ?></td>
+												<td class="text-center"><?php echo $row['dateRegistered']; ?></td>
+												<td class="text-center"><?php echo $row['status']; ?></td>
+												<td class="text-center">
+													<div class="btn-group">
+														<button type="button" class="btn btn-dark btn-sm btn-open" data-toggle="modal" data-target="#openModal_<?php echo $row['V_USERID']; ?>">Open</button>
+
+														<button type="button" class="btn btn-dark btn-sm dropdown-toggle dropdown-toggle-split" id="dropdownMenuReference1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-reference="parent">
+															<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+																<polyline points="6 9 12 15 18 9"></polyline>
+															</svg>
+														</button>
+														<div class="dropdown-menu" aria-labelledby="dropdownMenuReference1">
+															<a class="dropdown-item approve-trigger" href="#" data-id="<?php echo $row['id']; ?>" data-name="<?php echo $row['name']; ?>" data-toggle="modal" data-target="#approveConfirmationModal">Approve</a>
+															<a class="dropdown-item decline-trigger" href="#" data-id="<?php echo $row['id']; ?>" data-name="<?php echo $row['name']; ?>" data-toggle="modal" data-target="#declineConfirmationModal">Decline</a>
+														</div>
+													</div>
+
+													<div class="modal fade" id="openModal_<?php echo $row['V_USERID']; ?>" tabindex="-1" role="dialog" aria-labelledby="openModalTitle" aria-hidden="true">
+														<div class="modal-dialog modal-dialog-centered" role="document">
+															<div class="modal-content">
+																<div class="user-profile">
+																	<div class="widget-content widget-content-area">
+																		<div class="text-left">
+																			<h6><?php echo $row['V_USERID']; ?> </h6>
+																		</div>
+																		<div class="text-center user-info" style="margin-top: 3%;">
+																			<img src="../assets/vauploads/<?php echo $row['avatarImage']; ?>" alt="avatar" style="width: 180px; height: 180px; margin-bottom: 3%;">
+																		</div>
+																		<div class="user-info-list">
+																			<div class="" style="text-align: center;">
+																				<ul class="contacts-block list-unstyled" style="display: inline-block; text-align: left; margin-bottom: 3%;margin-top: 3%;">
+																					<li class="contacts-block__item">
+																						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-users">
+																							<path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+																							<circle cx="9" cy="7" r="4"></circle>
+																							<path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+																							<path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+																						</svg><?php echo $row['gender']; ?>
+																					</li>
+																					<li class="contacts-block__item">
+																						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-phone">
+																							<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+																						</svg><?php echo $row['cellphoneNumber']; ?>
+																					</li>
+																					<li>
+																						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar">
+																							<rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+																							<line x1="16" y1="2" x2="16" y2="6"></line>
+																							<line x1="8" y1="2" x2="8" y2="6"></line>
+																							<line x1="3" y1="10" x2="21" y2="10"></line>
+																						</svg><?php echo $row['birthdate']; ?>
+																					</li>
+																					<li class="contacts-block__item">
+																						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map-pin">
+																							<path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+																							<circle cx="12" cy="10" r="3"></circle>
+																						</svg><?php echo $row['address']; ?>
+																					</li>
+																					<li class="contacts-block__item">
+																						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-plus">
+																							<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+																							<polyline points="14 2 14 8 20 8"></polyline>
+																							<line x1="12" y1="18" x2="12" y2="12"></line>
+																							<line x1="9" y1="15" x2="15" y2="15"></line>
+																						</svg><?php echo $row['dateRegistered']; ?></a>
+																					</li>
+																					<li class="contacts-block__item">
+																						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clipboard">
+																							<path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path>
+																							<rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>
+																						</svg><?php echo $row['visitReason']; ?>
+																					</li>
+																				</ul>
+																				<ul style="margin-left: -9%;">
+																					<li class="list-inline-item">
+																						<button type="button" class="btn btn-outline-dark mb-2" style="font-weight: bold; font-size: 16px;">
+																							<?php echo $row['vModel']; ?>
+																					</li>
+																					<li class="list-inline-item">
+																					<li class="list-inline-item">
+																						<button type="button" class="btn btn-outline-dark mb-2" style="font-weight: bold; font-size: 16px;">
+																							<?php echo $row['vType']; ?>
+																					</li>
+																					</li>
+																					<li class="list-inline-item">
+																					<li class="list-inline-item">
+																						<button type="button" class="btn btn-outline-dark mb-2" style="font-weight: bold; font-size: 16px;">
+																							<?php echo $row['vPlateNumber']; ?>
+																					</li>
+																					</li>
+																				</ul>
+																			</div>
+																		</div>
+																		<div class="text-center user-info" style="margin-top: 3%;">
+																			<img src="../assets/vdluploads/<?php echo $row['driversLicenseImage']; ?>" alt="avatar" style="width: 300px; height: 150px;">
+																		</div>
+																		<div class="text-center user-info" style="margin-top: 3%;">
+																			<img src="../assets/vuploads/<?php echo $row['vehicleImage']; ?>" alt="avatar" style="width: 300px; height: 150px;">
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+
+													<!-- Approve Confirmation Modal -->
+													<div class="modal fade" id="approveConfirmationModal" tabindex="-1" role="dialog" aria-labelledby="approveConfirmationModalLabel" aria-hidden="true">
+														<div class="modal-dialog" role="document">
+															<div class="modal-content">
+																<div class="modal-header">
+																	<h5 class="modal-title" id="approveConfirmationModalLabel">Confirm Approval</h5>
+																	<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+																		<span aria-hidden="true">&times;</span>
+																	</button>
+																</div>
+																<div class="modal-body">
+																	<p>Are you sure you want to approve <strong><span id="approve-name"></span></strong>?</p>
+																</div>
+																<div class="modal-footer">
+																	<button type="button" class="btn btn-dark" data-dismiss="modal">Cancel</button>
+																	<form id="approve-form" method="POST" action="approve.php">
+																		<input type="hidden" name="id" id="approve-id" value="">
+																		<button type="submit" class="btn btn-primary">Confirm</button>
+																	</form>
+																</div>
+															</div>
+														</div>
+													</div>
+
+													<!-- Decline Confirmation Modal -->
+													<form method="POST" action="decline.php">
+														<div class="modal fade" id="declineConfirmationModal" tabindex="-1" role="dialog" aria-labelledby="declineConfirmationModalLabel" aria-hidden="true">
+															<div class="modal-dialog" role="document">
+																<div class="modal-content">
+																	<div class="modal-header">
+																		<h5 class="modal-title" id="declineConfirmationModalLabel">Confirm Decline</h5>
+																		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+																			<span aria-hidden="true">&times;</span>
+																		</button>
+																	</div>
+																	<div class="modal-body">
+																		<p>Are you sure you want to decline <strong><span id="decline-name"></strong></span>?</p>
+																		<div class="form-group">
+																			<label for="decline-reason">Reason for Decline:</label>
+																			<textarea class="form-control" id="decline-reason" name="reason" rows="3"></textarea>
+																			<input type="hidden" name="id" id="decline-id">
+																		</div>
+																	</div>
+																	<div class="modal-footer">
+																		<button type="button" class="btn btn-dark" data-dismiss="modal">Cancel</button>
+																		<button type="submit" class="btn btn-primary">Confirm</button>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</form>
+												</td>
+											</tr>
+										<?php } ?>
+									</tbody>
+									<tfoot>
+										<tr>
+											<th class="text-center">User ID</th>
+											<th class="text-center">Sponsor</th>
+											<th class="text-center">Full Name</th>
+											<th class="text-center">Gender</th>
+											<th class="text-center">Purpose of Visit</th>
+											<th class="text-center">Vehicle Model</th>
+											<th class="text-center">Plate Number</th>
+											<th class="text-center">Date Registered</th>
+											<th class="text-center">Status</th>
+											<th class="text-center">Action</th>
+										</tr>
+									</tfoot>
+								</table>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				<?php include('footer.php'); ?>
+			</div>
+
+		</div>
+	</div>
+	</div>
+	<!--  END CONTENT AREA  -->
+
+	</div>
+	<!-- END MAIN CONTAINER -->
+
+	<!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
+	<script src="../assets/js/libs/jquery-3.1.1.min.js"></script>
+	<script src="../bootstrap/js/popper.min.js"></script>
+	<script src="../bootstrap/js/bootstrap.min.js"></script>
+	<script src="../plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+	<script src="../assets/js/app.js"></script>
+
+	<script>
+		$(document).ready(function() {
+			App.init();
+		});
+	</script>
+	<script src="../assets/js/custom.js"></script>
+	<!-- END GLOBAL MANDATORY SCRIPTS -->
+
+
+	<!-- BEGIN PAGE LEVEL CUSTOM SCRIPTS -->
+	<script src="../plugins/table/datatable/datatables.js"></script>
+	<!-- NOTE TO Use Copy CSV Excel PDF Print Options You Must Include These Files  -->
+	<script src="../plugins/table/datatable/button-ext/dataTables.buttons.min.js"></script>
+	<script src="../plugins/table/datatable/button-ext/jszip.min.js"></script>
+	<script src="../plugins/table/datatable/button-ext/buttons.html5.min.js"></script>
+	<script src="../plugins/table/datatable/button-ext/buttons.print.min.js"></script>
+
+	<!-- END PAGE LEVEL CUSTOM SCRIPTS -->
+
+
+	<script src="../assets/npm/flatpickr.js"></script>
+	<script>
+		var f3 = flatpickr(document.getElementById("rangeCalendarFlatpickr"), {
+			mode: "range",
+			defaultDate: ["2024-03-22", "2024-03-30"],
+		});
+	</script>
+	<script src="../assets/js/custom.js"></script>
+
+	<!-- Bootstrap JS and its dependencies -->
+	<script src="../bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			var table = $('#html5-extension').DataTable({
+				dom: '<"row"<"col-md-12"<"row"<"col-md-6"B><"col-md-6"f> > ><"col-md-12"rt> <"col-md-12"<"row"<"col-md-5"i><"col-md-7"p>>> >',
+				buttons: {
+					buttons: [{
+							extend: 'copy',
+							className: 'btn',
+							exportOptions: {
+								columns: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+							}
+						},
+						{
+							extend: 'csv',
+							className: 'btn',
+							exportOptions: {
+								columns: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+							}
+						},
+						{
+							extend: 'excel',
+							className: 'btn',
+							exportOptions: {
+								columns: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+							}
+						},
+						{
+							extend: 'print',
+							className: 'btn',
+							exportOptions: {
+								columns: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+							}
+						}
+					]
+				},
+				"oLanguage": {
+					"oPaginate": {
+						"sPrevious": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>',
+						"sNext": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>'
+					},
+					"sInfo": "Showing page _PAGE_ of _PAGES_",
+					"sSearch": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>',
+					"sSearchPlaceholder": "Search...",
+					"sLengthMenu": "Results :  _MENU_",
+				},
+				"stripeClasses": [],
+				"lengthMenu": [7, 10, 20, 50],
+				"pageLength": 7
+			});
+
+			// Handle Approve button click using event delegation
+			$('#html5-extension tbody').on('click', '.approve-trigger', function(e) {
+				e.preventDefault();
+				var id = $(this).data('id');
+				var name = $(this).data('name');
+				$('#approve-name').text(name);
+				$('#approve-id').val(id); // Set the hidden input value
+				$('#approveConfirmationModal').modal('show'); // Show the modal
+			});
+
+			// Handle Decline button click using event delegation
+			$('#html5-extension tbody').on('click', '.decline-trigger', function(e) {
+				e.preventDefault();
+				var id = $(this).data('id');
+				var name = $(this).data('name');
+				$('#decline-name').text(name);
+				$('#decline-id').val(id); // Store the id in a hidden input
+				$('#declineConfirmationModal').modal('show'); // Show the modal
+			});
+
+			// Handle Decline confirmation
+			$('#declineConfirmationModal').on('click', '.decline-confirm', function() {
+				var id = $('#decline-id').val(); // Retrieve the id from the hidden input
+				var reason = $('#decline-reason').val();
+
+				$.ajax({
+					url: 'decline.php',
+					type: 'POST',
+					data: {
+						id: id,
+						reason: reason
+					},
+					success: function(response) {
+						alert(response);
+						location.reload();
+					},
+					error: function(xhr, status, error) {
+						alert('Error declining visitor: ' + error);
+					}
+				});
+			});
+
+			// Handle Approve confirmation
+			$('#approveConfirmationModal').on('click', '.approve-confirm', function() {
+				var id = $('#approve-id').val(); // Get the ID from the hidden input
+
+				$.ajax({
+					url: 'approve.php',
+					type: 'POST',
+					data: {
+						id: id
+					},
+					success: function(response) {
+						alert(response);
+						location.reload();
+					},
+					error: function(xhr, status, error) {
+						alert('Error approving visitor: ' + error);
+					}
+				});
+			});
+		});
+	</script>
+
+
+
+
+
+</body>
+
+</html>
